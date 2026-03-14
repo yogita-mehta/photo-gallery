@@ -1,6 +1,6 @@
 # 📸 Luminary — Photo Gallery
 
-A responsive photo gallery built with **React 18 + Vite + Tailwind CSS** for a frontend internship assignment.
+A responsive photo gallery built with **React 18 + Vite + Tailwind CSS** .
 
 ---
 
